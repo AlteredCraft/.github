@@ -1,12 +1,19 @@
-## Hi there 👋
+![AlteredCraft Logo](./docs/logo.v1.small.png)
 
-<!--
+**AlteredCraft: Deep technical dives. Human-centered guidance. Your craft, evolved.**
 
-**Here are some ideas to get you started:**
+## 🎯 What You'll Find Here
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Each repository typically corresponds to a deep dive article exploring how AI is transforming specific aspects of software development:
+
+> Every repository here is a working proof-of-concept from our Substack deep dives.
+> We keep this examples simple but practical, not toy examples. No hand-waving. Just clean, practical code showing what's actually possible and giving you a good foundation to build upon.
+
+## 📬 Subscribe to AlteredCraft
+Get the full story behind each implementation, plus exclusive deep dives on navigating AI's disruption of software development.
+
+**[→ Subscribe on Substack](https://alteredcraft.substack.com)**
+
+---
+
+**Built by [Sam Keen](www.linkedin.com/in/samkeen)** • AWS Technical Architect • Author of [Clean Architecture with Python](https://www.amazon.com/Clean-Architecture-Python-maintainable-architectural/dp/183664289X) • Founder of [Portland AI Engineers](https://www.portlandai.engineer/)
